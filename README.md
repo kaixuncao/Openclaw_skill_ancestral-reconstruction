@@ -4,7 +4,11 @@ The ‘Ancestral Reconstruction’ skill in OpenClaw was developed through train
 The amino acid format for input to OpenClaw is as follows:
 
 ‘>Species name 1‘
+
 ’Amino acid sequence’
+
 ‘>Species name 2’
+
 ‘Amino acid sequence’
+
 ‘......’
